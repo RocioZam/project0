@@ -1,0 +1,30 @@
+.fact4, .fact3, .fact2, .fact1 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid #6e81ec;
+  padding: 20 px;
+  margin: 30px;
+}
+
+.fact1 {
+  color: green;
+  background-color: lavender;
+}
+
+.fact2 {
+  color: red;
+  background-color: silver;
+}
+
+.fact3 {
+  color: orange;
+  background-color: khaki;
+}
+
+.fact4 {
+  color: #e254d6;
+  background-color: blueviolet;
+}
+
+/*# sourceMappingURL=inheritance.css.map */
